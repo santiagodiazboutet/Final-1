@@ -109,3 +109,32 @@
 	<time.h>
 	"funciones.h"
 
+1532723451 source:c:\users\san\desktop\final-master\segundoparciallaboratorio2-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532723451 c:\users\san\desktop\final-master\segundoparciallaboratorio2-master\arraylist.h
+
+1532723451 source:c:\users\san\desktop\final-master\segundoparciallaboratorio2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
+1532723451 c:\users\san\desktop\final-master\segundoparciallaboratorio2-master\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1532723870 source:c:\users\san\desktop\final-master\segundoparciallaboratorio2-master\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"ArrayList.h"
+	"funciones.h"
+
