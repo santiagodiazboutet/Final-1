@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1530307336 source:c:\test\mmadou\mmadou_segundo_parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530307371 c:\test\mmadou\mmadou_segundo_parcial\arraylist.h
+
+1530307723 source:c:\test\mmadou\mmadou_segundo_parcial\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1530307977 c:\test\mmadou\mmadou_segundo_parcial\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1530307937 source:c:\test\mmadou\mmadou_segundo_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1530294562 source:c:\users\syn\desktop\segundoparciallaboratorio2-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530294562 c:\users\syn\desktop\segundoparciallaboratorio2-master\arraylist.h
+
+1531462376 source:c:\users\syn\desktop\segundoparciallaboratorio2-master\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1530294562 c:\users\syn\desktop\segundoparciallaboratorio2-master\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1531462279 source:c:\users\syn\desktop\segundoparciallaboratorio2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531448314 source:c:\users\capacita_mecon\downloads\segundo-parcial-master\segundo-parcial-master\segundoparciallaboratorio2-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531448314 c:\users\capacita_mecon\downloads\segundo-parcial-master\segundo-parcial-master\segundoparciallaboratorio2-master\arraylist.h
+
+1531448314 source:c:\users\capacita_mecon\downloads\segundo-parcial-master\segundo-parcial-master\segundoparciallaboratorio2-master\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1531448314 c:\users\capacita_mecon\downloads\segundo-parcial-master\segundo-parcial-master\segundoparciallaboratorio2-master\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1531510392 source:c:\users\capacita_mecon\downloads\segundo-parcial-master\segundo-parcial-master\segundoparciallaboratorio2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531503518 source:c:\test\segundoparciallaboratorio2-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531503518 c:\test\segundoparciallaboratorio2-master\arraylist.h
+
+1532721724 source:c:\test\segundoparciallaboratorio2-master\funciones.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1532721964 c:\test\segundoparciallaboratorio2-master\funciones.h
+	"funciones.h"
+	"ArrayList.h"
+
+1532721596 source:c:\test\segundoparciallaboratorio2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funciones.h"
+
