@@ -16,17 +16,20 @@ int parseCargaDeDatos(ArrayList* lista,char filename[])
     FILE* fp;
     eLetra* s;
     int estado = 1;
+    char voc,cons;
     int vocal, consonante;
     char letra;
     char nombre[21];
     fp = fopen(filename,"r");
-    fscanf(fp,"%[^,],%[^,],%[^,],%[^\n]\n",&letra,nombre,&vocal,&consonante);
+    fscanf(fp,"%[^,],%[^,],%[^,],%[^\n]\n",&letra,nombre,&voc,&cons);
     if(fp!=NULL&&lista!=NULL)
     {
         do
         {
             s=emp_newStruct();
-            fscanf(fp,"%[^,],%[^,],%[^,],%[^\n]\n",&letra,nombre,&vocal,&consonante);
+            fscanf(fp,"%[^,],%[^,],%[^,],%[^\n]\n",&letra,nombre,&voc,&cons);
+            vocal=atoi(&voc);
+            consonante=atoi(&cons);
             printf("%c,%s,%d,%d",letra,nombre,vocal,consonante);
             let_setLetra(s,letra);
             let_setNombre(s,nombre);
